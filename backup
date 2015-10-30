@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Emoji Sex Ed | More Information</title>
+
+<link rel="stylesheet" href="../css/reset.css">
+<link rel="stylesheet" href="../css/text.css">
+<link rel="stylesheet" href="../css/960.css">
+
+
+</head>
+
+<body>
+    <div class="container_12">
+        
+
+        <div class="grid_12">
+            <h1>How well did you do?</h1>
+            <h3>Provide your zip code below to see you well you scored against your peers in the areas.</h3>
+            <form>
+  Zip code:<br>
+  <input type="text" title:"zip code" name="zipcode">
+  </form>
+  <button type="button" onclick="alert('Hello World!')">Enter</button>
+  </div>
+  
+  <div class="grid_12">
+  <h1>Would you like more personal information?</h1>
+  <h3>Submit your email or emoji below to be link with resources regarding sexual health, pregnancy prevention, condom usage, STDs, or local clinics.</h3>
+<form>
+  Email:<br>
+  <input type="text" title="email (optional)" name="lastname">
+  Emoji or message:<br>
+  <textarea name="message" rows="10" cols="30">
+Type message here.
+</textarea>
+<button type="button" onclick="alert('Hello World!')">Enter</button>
+</form>
+        </div>
+        
+        <div class="grid_12">
+            <p></p>
+        </div>
+        
+        
+       </body>
+
+<footer>
+    <div class="grid_12">
+        <br/>
+        <p>Copyright 2015.</p>
+    </div>
+    
+</footer>
+
+</div>
+</html>
